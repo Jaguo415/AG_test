@@ -22,16 +22,14 @@ Date and Time needs to be seperated into their own columns
 
 <img width="987" alt="Screen Shot 2021-12-29 at 11 21 55 PM" src="https://user-images.githubusercontent.com/83923903/147731600-fdc82021-e76b-4c31-a50f-ba9a1b0ee0ed.png">
 
+#### First we upload our CSV into Juypter notebook and reformat into a dataframe with pandas. Next we split date & time from Created_at_UTC Column.
 
-#### Next we will use Pandas to Clean "Zip Code". We upload our CSV, and reformat it into a Dataframe. We notice most of the errors are in the Zip code column and decide to use a sort value on the Zip codes. We then identified 28 rows of invalid Data. We only pull the remaning 472 rows from our Dataframe, and we save our new Dataframe with 472/500 rows. We save this new Dataframe back into AG_test2.csv
+<img width="895" alt="Screen Shot 2021-12-30 at 12 58 27 PM" src="https://user-images.githubusercontent.com/83923903/147787596-48b68b09-7aa7-4ad7-8831-4962c8f641a7.png">
+
+
+#### Next we should Clean all of the "Zip Code". We notice major errors in Zip code column and decide to use a sort value on the Zip codes. We then identified 28 rows of invalid Data, to be deleted. We only pull the remaning 472 rows from our Dataframe, and we save our new Dataframe with 472/500 rows. We save this new Dataframe back into AG_test2.csv
 
 <img width="847" alt="Screen Shot 2021-12-29 at 11 35 51 PM" src="https://user-images.githubusercontent.com/83923903/147731926-2c68da86-aca6-4a45-8582-05b3d0049c2e.png">
-
-#### Seperate Date and Time into their own seperate columns. Use a Right and Left formula on Datetime column in google sheets.
-
-<img width="969" alt="Screen Shot 2021-12-30 at 10 46 36 AM" src="https://user-images.githubusercontent.com/83923903/147780043-ebc3813d-226f-4bf0-9d02-78ca42123c37.png">
-
-<img width="847" alt="Screen Shot 2021-12-30 at 10 46 11 AM" src="https://user-images.githubusercontent.com/83923903/147779959-7aab9b81-c8f1-4669-8956-0a3e08992497.png">
 
 
 
