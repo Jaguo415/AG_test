@@ -42,9 +42,9 @@ Link to dataset: https://docs.google.com/spreadsheets/d/18cKkNBf_Bi2-Gjcmiu8F-3L
 # Part 2: KPI & Dashboard
 #### Questions to Ask: 
 
-**Q**:How much are we willing to pay, to acquire the customer? **A:** $50 is our Customer acquisition Cost. 
+**Q** Jack :How much are we willing to pay, to acquire the customer? Chelsea: **A:** $50 is our Customer acquisition Cost.
 
-Anytime a customer spends above $50 at a spot, we are in the Black. Anytime below $50 the red. With the Average transaction at $51.29, we have a sweet spot of 1.29 (2.58%) to profit. 
+Anytime a customer spends above $50 at a spot, we are in the Black. Anytime a customer pays below $50 for a spot we unfortunately are in the red. With the Average transaction at $51.29, we have a sweet spot of 1.29 (2.58%) margin to profit of each transation. Great! 
 
 *** KPI: Customer acquisition cost  ($50)
 <img width="488" alt="Screen Shot 2021-12-31 at 11 47 09 AM" src="https://user-images.githubusercontent.com/83923903/147839853-9734d053-879d-444d-9db5-6f83ba23b73e.png">
@@ -57,8 +57,16 @@ Anytime a customer spends above $50 at a spot, we are in the Black. Anytime belo
 * 5974 - 226 * 50 = 5,974 - 11,300 = -$5326 missed Revenue
 * 5905 + (-5326) = $579 Gross profit 
 
+<img width="1147" alt="Screen Shot 2021-12-31 at 2 24 33 PM" src="https://user-images.githubusercontent.com/83923903/147840239-c533f132-2a6c-4ea0-bc67-40c0a0e6639b.png">
+
+*  Conclusion: We have made a profit of $579 As well as acquired 463 customers. This is great news for our shareholders! 
+
+
 * KPI: Surge Rate & Upselling opportunitys: We notice upticks at specific times of the day. We should impliment at 0.10 cent increase to add to our revenue. As our margins are 1.29, an addiitonal 0.10 cents is 7% increase in revenue identified from our historical data. 
 **
+
+<img width="1136" alt="Screen Shot 2021-12-31 at 2 25 46 PM" src="https://user-images.githubusercontent.com/83923903/147840252-2650b30f-b94b-4d10-b65b-6d00f524af58.png">
+
 
 ### Dashboard Link: 
 https://public.tableau.com/app/profile/jack.guo4626/viz/AGTest_16409597631390/Dashboard1?publish=yes
