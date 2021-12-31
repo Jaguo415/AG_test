@@ -23,7 +23,7 @@ Chelsea has tasked Jack to help clean, explore, and disover new business implime
 ## Part 1
 
 
-#### Open Provided CSV. We immedietly notice errors in column "amount_paid_cents" with the number formated with a space "#_###". We need to remove the space in between and we will use the Substitute formula. This will remove the space inbetween the numbers and give us the correct format. Next we create a new column called "amount_paid_in_dollar". We take amount_paid_in_cents and x 100 to get "amount_paid_in_dollar". We will be use this column later in our dashboard. We notice additional errors in the "Zip Code" and decide to use Pandas to fix this. So, We save the CSV as AG_test.CSV and into our resource folder.
+#### Open Chelsea's Provided CSV. We immedietly notice errors in column "amount_paid_cents" with the number formated with a space "#_###". We need to remove the space in between and we will use the Substitute formula. This will remove the space inbetween the numbers and give us the correct format. Next we create a new column called "amount_paid_in_dollar". We take amount_paid_in_cents and x 100 to get "amount_paid_in_dollar". We will be use this column later in our dashboard. We notice additional errors in the "Zip Code" and decide to use Pandas to fix this. So, We save the CSV as AG_test.CSV and into our resource folder.
 
 <img width="772" alt="Screen Shot 2021-12-31 at 3 08 23 PM" src="https://user-images.githubusercontent.com/83923903/147840838-b05c8b14-d1a0-44a2-820a-78b4178db718.png">
 
