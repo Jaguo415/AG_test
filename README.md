@@ -72,7 +72,7 @@ Profitable vs Unprofitable
 
  ### Conclusion: We have made a profit of $579 As well as acquired 463 customers. This is great news for our shareholders! 
 
-## KPI: Surge Rate & Upselling opportunitys: We notice upticks at specific times of the day. We should impliment at 0.10 cent increase to add to our revenue. As our margins are 1.29, an addiitonal 0.10 cents is 7% increase in revenue identified from our historical data. 
+## KPI: Surge Rate & Upselling opportunitys: We notice upticks at specific times of the day. Some worth over $70 at times. We should impliment an additional 0.10 cent increase to these surge times. This will add to our revenue. As our margins are 1.29, an addiitonal 0.10 cents is a 7% increase in revenue. We can identifiy these surge trends from our historical data. 
 **
 
 <img width="1136" alt="Screen Shot 2021-12-31 at 2 25 46 PM" src="https://user-images.githubusercontent.com/83923903/147840252-2650b30f-b94b-4d10-b65b-6d00f524af58.png">
