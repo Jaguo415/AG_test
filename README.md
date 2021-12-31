@@ -39,8 +39,11 @@ Link to Clean Data: https://docs.google.com/spreadsheets/d/18cKkNBf_Bi2-Gjcmiu8F
 Q:How much are we willing to pay, to acquire the customer? A: $50 is our Customer acquisition Cost. Anytime a customer spends above $50 at a spot, we are in the Black. Anytime below $50 the red.
 
 *** KPI: Customer acquisition cost ($50)
+<img width="488" alt="Screen Shot 2021-12-31 at 11 47 09 AM" src="https://user-images.githubusercontent.com/83923903/147839853-9734d053-879d-444d-9db5-6f83ba23b73e.png">
+
 * KPI: Net Revenue (Profitable / # of profitable transactions - unprofitable / # of Unprofitable transactions) 
 * KPI: Surge Rate & Upselling opportunitys
 **
 
+https://public.tableau.com/app/profile/jack.guo4626/viz/AGTest_16409597631390/Dashboard1?publish=yes
 
