@@ -4,7 +4,7 @@
 
 
 
-**Scenario**: Chelsea B, CEO and co founder of **Air Freight Cargo Company** a global air freight forwarding logistics company based out of South san francisco with over 50 additional warehouses located around the world. "AFCC" handles large cargo trucks from logistical centers and their service is critical to getting product sorted and shipped. Chelsea has just contracted an external data analyst, Jack to perform some analysis. Chelsea's crm has done a great job, and stored a ton of helpful customer data. In the Data, we have information such as transaction id, the customer phone number, the spotID (gate number) they offloaded Cargo at, The date/time the customer arrived at the slot, and finally the amout of money they paid. However, like most datasets there exist dirty or even duplicated data which needs to be removed. This way we can ensure we made a through analysis. 
+**Scenario**: Chelsea B, CEO and co founder of **Air Freight Cargo Company** a global air freight forwarding logistics company based out of South san francisco with over 150 additional warehouses located around the world. "AFCC" large regional hubs handles trucks from logistical centers and their service is critical to getting product sorted and shipped. Chelsea has just contracted an external data analyst, Jack to perform some analysis. Chelsea's crm has done a great job, and stored a ton of helpful goods to customers. In the Data, we have information such as transaction id, the customer phone number, the spotID (gate number) they offloaded Cargo at, The date/time the customer arrived at the slot, and finally the amout of money they paid. However, like most datasets there exist dirty or even duplicated data which needs to be removed. This way we can ensure we made a through analysis. 
 
 Chelsea goal is creating 3 metrics bring back to her Q4 meeting with her fellow stakeholders, in order drive the business forward by leveraging our historical data 
 
@@ -84,12 +84,16 @@ https://public.tableau.com/app/profile/jack.guo4626/viz/AGTest_16409597631390/Da
 
 # Additional Comments & Road Blocks
 
+* Some additional data like "Duration of Stay" so we could figure out when the spot was open again would be useful.
+* There is only 1 phone number per row of data. If 1 phone number = 1 customer then, the dataset could be more variation as repeating customers are not being accounted for. 
+* 
+
 * PostgreSQL not compatable with Tableau Public. Limited to only using google sheets....
 <img width="691" alt="Screen Shot 2021-12-31 at 11 47 55 AM" src="https://user-images.githubusercontent.com/83923903/147840405-6d654084-b72a-427c-b843-2687a65f5bcd.png">
 
 
 * Unwilling to pay for a monthly license,($52) as my free two week trail was used during Berkeley Bootcamp
 
-* Wasted time Creating a postgreSQL server, creating tables in hopes to connect it with amazon S3 and connecting that to Tableau. But If i had a full version of Tableau Desktop, this is how I prefer to do it. Google sheets personally feels like a band aid.
+* Spent time Creating a postgreSQL server, was unable to use it. I creating tables in hopes to connect postgresql it with amazon S3 and connecting that to Tableau. But If i had a full version of Tableau Desktop, this is how I prefer to do it. Google sheets works, but not scalable and in my opinion serves as a band aid.
 <img width="1418" alt="Screen Shot 2021-12-31 at 2 36 14 PM" src="https://user-images.githubusercontent.com/83923903/147840415-acd9e7f7-1000-4b6f-a776-3bfd9a0250f4.png">
 
