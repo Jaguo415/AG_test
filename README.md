@@ -3,7 +3,9 @@
 
 
 
-Scenario: Chelsea B, CEO and co founder of **Air Freight Cargo Company** a freight forwarding warehouse based out of south san francisco with over 50 warehouses world wide. "AFCC" handles large cargo trucks from around the world. Chelsea has just contracted an external data analyst to perform some inanalysis. In the Data, we have information such as transaction id, the customer phone number, the spotID (gate number) they offloaded Cargo at, The date/time the customer arrived at the slot, and finally the amout of money they paid. Chelsea is looking for 3 main metrics bring back to her shareholders, in order push the business forward by using our historical data to better drive business decisions. Jack has decided to break the process down into two parts.
+Scenario: Chelsea B, CEO and co founder of **Air Freight Cargo Company** a freight forwarding warehouse based out of South san francisco with over 50 additional warehouses located around the world. "AFCC" handles large cargo trucks from around the world and their service is critical to getting goods into peoples hands. Chelsea has just contracted an external data analyst to perform some inanalysis. In the Data, we have information such as transaction id, the customer phone number, the spotID (gate number) they offloaded Cargo at, The date/time the customer arrived at the slot, and finally the amout of money they paid.
+
+Chelsea is looking for 3 main metrics bring back to her shareholders, in order push the business forward by using our historical data to better drive business decisions. Jack has decided to break the process down into two parts.
 
 
 # Part 1: Data Clean up. Google Sheets, Pandas
@@ -11,15 +13,8 @@ Scenario: Chelsea B, CEO and co founder of **Air Freight Cargo Company** a freig
 
 
 ## Part 1
-
-Facts: 
-There is messy Data thats needs to be deleted as it does not add any benefit and as a by product will only add more confusion to our analysis.
-
-1 Customer equals 1 uninque phone number. If same phone number in different Slot, still same customer.
-
-Date and Time needs to be seperated into their own columns
-
-
+Link to Dirty Data: https://docs.google.com/spreadsheets/d/1Dh4nBFfJPPOIJrTz4lU-0ZiHGWDLfXfSR_f1zvMhnJI/edit?usp=sharing
+Link to Clean Data: https://docs.google.com/spreadsheets/d/18cKkNBf_Bi2-Gjcmiu8F-3LonrmKtFBPCMxJ9tMqOSg/edit?usp=sharing
 
 
 #### Open Provided CSV. We immedietly notice errors in column "amount_paid_cents" with the number formated with a space "#_###". We need to remove the space in between and we will use the Substitute formula. This will remove the space inbetween the numbers and give us the correct format. Next we create a new column called "Amount Paid in Dollars" We will be use this column later. We notice additional errors in the "Zip Code" and decide to use Pandas to fix this. So, We save the CSV as AG_test.CSV and into our resource folder.
@@ -35,6 +30,16 @@ Date and Time needs to be seperated into their own columns
 
 <img width="847" alt="Screen Shot 2021-12-29 at 11 35 51 PM" src="https://user-images.githubusercontent.com/83923903/147731926-2c68da86-aca6-4a45-8582-05b3d0049c2e.png">
 
+
+# Part 2: Tableau Dashboard and KPI
+
+#### Questions to Ask: 
+
+Q:How much are we willing to pay, to acquire the customer? A: $50 is our Customer acquisition Cost
+
+KPI: Customer acquisition cost ($50)
+KPI: Net Revenue (Profitable / # of profitable transactions - unprofitable / # of Unprofitable transactions) 
+KPI: Surge Rate & Upsell
 
 
 
