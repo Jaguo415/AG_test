@@ -1,9 +1,13 @@
 # Overview 
+![ramp](https://user-images.githubusercontent.com/83923903/147833790-2d88081c-beeb-4f06-b529-25a999a9ecec.jpeg)
+
+
+
+Scenario: Chelsea B, CEO and co founder of **Air Freight Cargo Company** a freight forwarding warehouse based out of south san francisco with over 50 warehouses world wide. "AFCC" handles large cargo trucks from around the world. Chelsea has just contracted an external data analyst to perform some inanalysis. In the Data, we have information such as transaction id, the customer phone number, the spotID (gate number) they offloaded Cargo at, The date/time the customer arrived at the slot, and finally the amout of money they paid. Chelsea is looking for 3 main metrics bring back to her shareholders, in order push the business forward by using our historical data to better drive business decisions. Jack has decided to break the process down into two parts.
 
 
 # Part 1: Data Clean up. Google Sheets, Pandas
-# Part 2: SQL database set up
-# Part 3: Tableau Dashboard and KPI
+# Part 2: Tableau Dashboard and KPI
 
 
 ## Part 1
