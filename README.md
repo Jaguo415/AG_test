@@ -37,9 +37,9 @@ Link to Clean Data: https://docs.google.com/spreadsheets/d/18cKkNBf_Bi2-Gjcmiu8F
 
 Q:How much are we willing to pay, to acquire the customer? A: $50 is our Customer acquisition Cost
 
-* KPI: Customer acquisition cost ($50)
+*** KPI: Customer acquisition cost ($50)
 * KPI: Net Revenue (Profitable / # of profitable transactions - unprofitable / # of Unprofitable transactions) 
 * KPI: Surge Rate & Upselling opportunitys
-
+**
 
 
