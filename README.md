@@ -20,9 +20,12 @@ Link to Original Dirty Data: https://docs.google.com/spreadsheets/d/1Dh4nBFfJPPO
 Link to Clean Data: https://docs.google.com/spreadsheets/d/18cKkNBf_Bi2-Gjcmiu8F-3LonrmKtFBPCMxJ9tMqOSg/edit?usp=sharing
 
 
-#### Open Provided CSV. We immedietly notice errors in column "amount_paid_cents" with the number formated with a space "#_###". We need to remove the space in between and we will use the Substitute formula. This will remove the space inbetween the numbers and give us the correct format. Next we create a new column called "Amount Paid in Dollars" We will be use this column later. We notice additional errors in the "Zip Code" and decide to use Pandas to fix this. So, We save the CSV as AG_test.CSV and into our resource folder.
+#### Open Provided CSV. We immedietly notice errors in column "amount_paid_cents" with the number formated with a space "#_###". We need to remove the space in between and we will use the Substitute formula. This will remove the space inbetween the numbers and give us the correct format. Next we create a new column called "amount_paid_in_dollar". We take amount_paid_in_cents and x 100 to get "amount_paid_in_dollar". We will be use this column later in our dashboard. We notice additional errors in the "Zip Code" and decide to use Pandas to fix this. So, We save the CSV as AG_test.CSV and into our resource folder.
 
-<img width="987" alt="Screen Shot 2021-12-29 at 11 21 55 PM" src="https://user-images.githubusercontent.com/83923903/147731600-fdc82021-e76b-4c31-a50f-ba9a1b0ee0ed.png">
+<img width="772" alt="Screen Shot 2021-12-31 at 3 08 23 PM" src="https://user-images.githubusercontent.com/83923903/147840838-b05c8b14-d1a0-44a2-820a-78b4178db718.png">
+
+<img width="753" alt="Screen Shot 2021-12-31 at 3 09 36 PM" src="https://user-images.githubusercontent.com/83923903/147840858-184fc8d6-e302-4579-9e98-e2ed218f646c.png">
+
 
 #### First we upload our CSV into Juypter notebook and reformat into a dataframe with pandas. Next we split date & time from Created_at_UTC Column.
 
