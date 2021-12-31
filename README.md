@@ -17,8 +17,8 @@ Chelsea goal is creating 3 metrics bring back to her Q4 meeting with her fellow 
 Chelsea has tasked Jack to help clean, explore, and disover new business implimentations. Jack has decided to break the Data analysis process down into two parts.
 
 
-# Part 1: Data Clean up. Google Sheets, Pandas
-# Part 2: KPI & Dashboard
+### Part 1: Data Clean up. Google Sheets, Pandas
+### Part 2: KPI & Dashboard
 
 
 ## Part 1
