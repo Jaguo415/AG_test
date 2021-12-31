@@ -58,7 +58,7 @@ https://public.tableau.com/app/profile/jack.guo4626/viz/AGTest_16409597631390/Da
 Blue = Wins
 Orange = Losses
 <img width="154" alt="Screen Shot 2021-12-31 at 2 29 25 PM" src="https://user-images.githubusercontent.com/83923903/147840302-0c1c30fe-785c-4402-860e-1ee11735bd52.png">
-
+* Please note, you can only select 1 Region at a time. We have european regions in the dataset, and You can switch your region on the bottom right of the GEO Map. 
 <img width="1134" alt="Screen Shot 2021-12-31 at 2 29 17 PM" src="https://user-images.githubusercontent.com/83923903/147840312-4973df16-80d9-46b8-9e5a-9832b9a263ed.png">
 
 
