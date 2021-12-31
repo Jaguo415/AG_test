@@ -3,9 +3,9 @@
 
 
 
-Scenario: Chelsea B, CEO and co founder of **Air Freight Cargo Company** a freight forwarding warehouse based out of South san francisco with over 50 additional warehouses located around the world. "AFCC" handles large cargo trucks from around the world and their service is critical to getting goods into peoples hands. Chelsea has just contracted an external data analyst to perform some inanalysis. In the Data, we have information such as transaction id, the customer phone number, the spotID (gate number) they offloaded Cargo at, The date/time the customer arrived at the slot, and finally the amout of money they paid.
+**Scenario**: Chelsea B, CEO and co founder of **Air Freight Cargo Company** a freight forwarding warehouse based out of South san francisco with over 50 additional warehouses located around the world. "AFCC" handles large cargo trucks from logistical centers and their service is critical to getting product sorted and shipped. Chelsea has just contracted an external data analyst, Jack to perform some analysis. Chelsea crm has done a great job, its stored a ton of helpful data. In the Data, we have information such as transaction id, the customer phone number, the spotID (gate number) they offloaded Cargo at, The date/time the customer arrived at the slot, and finally the amout of money they paid. However, like most CRM theres dirty or duplicated data which needs to be removed.
 
-Chelsea is looking for 3 main metrics bring back to her shareholders, in order push the business forward by using our historical data to better drive business decisions. Jack has decided to break the process down into two parts.
+Chelsea goal is creating 3 metrics bring back to her Q4 meeting with her shareholders, in order push the business forward by using our historical data Chelsea has tasked Jack to help better drive business decisions. Jack has decided to break the process down into two parts.
 
 
 # Part 1: Data Clean up. Google Sheets, Pandas
@@ -13,7 +13,7 @@ Chelsea is looking for 3 main metrics bring back to her shareholders, in order p
 
 
 ## Part 1
-Link to Dirty Data: https://docs.google.com/spreadsheets/d/1Dh4nBFfJPPOIJrTz4lU-0ZiHGWDLfXfSR_f1zvMhnJI/edit?usp=sharing
+Link to Original Dirty Data: https://docs.google.com/spreadsheets/d/1Dh4nBFfJPPOIJrTz4lU-0ZiHGWDLfXfSR_f1zvMhnJI/edit?usp=sharing
 Link to Clean Data: https://docs.google.com/spreadsheets/d/18cKkNBf_Bi2-Gjcmiu8F-3LonrmKtFBPCMxJ9tMqOSg/edit?usp=sharing
 
 
