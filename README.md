@@ -1,7 +1,8 @@
 # Overview 
 ![trck](https://user-images.githubusercontent.com/83923903/147840488-ea85014a-2948-4e77-a31b-80b451a3340e.jpeg)
 
-# Resource: Link to Dashboard
+# Resource: 
+* Link to Dashboard
 * https://public.tableau.com/app/profile/jack.guo4626/viz/AGTest_16409597631390/Dashboard1?publish=yes
 * Link to Original Dirty Data: https://docs.google.com/spreadsheets/d/1Dh4nBFfJPPOIJrTz4lU-0ZiHGWDLfXfSR_f1zvMhnJI/edit?usp=sharing
 * Link to Clean Data: https://docs.google.com/spreadsheets/d/18cKkNBf_Bi2-Gjcmiu8F-3LonrmKtFBPCMxJ9tMqOSg/edit?usp=sharing
