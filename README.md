@@ -41,6 +41,14 @@ Link to dataset: https://docs.google.com/spreadsheets/d/18cKkNBf_Bi2-Gjcmiu8F-3L
 
 # Part 2: KPI & Dashboard
 #### Questions to Ask: 
+**Q** Chelsea: Where are all of these customers located around the world? Can we seperate them by wins and losses? **A** Jack: Lets create a GEO Map.
+Blue = Wins
+Orange = Losses
+<img width="154" alt="Screen Shot 2021-12-31 at 2 29 25 PM" src="https://user-images.githubusercontent.com/83923903/147840302-0c1c30fe-785c-4402-860e-1ee11735bd52.png">
+
+<img width="1134" alt="Screen Shot 2021-12-31 at 2 29 17 PM" src="https://user-images.githubusercontent.com/83923903/147840312-4973df16-80d9-46b8-9e5a-9832b9a263ed.png">
+
+
 
 **Q** Jack :How much are we willing to pay, to acquire the customer? Chelsea: **A:** $50 is our Customer acquisition Cost.
 
