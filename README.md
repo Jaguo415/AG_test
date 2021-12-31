@@ -76,6 +76,6 @@ Anytime a customer spends above $50 at a spot, we are in the Black. Anytime a cu
 <img width="1136" alt="Screen Shot 2021-12-31 at 2 25 46 PM" src="https://user-images.githubusercontent.com/83923903/147840252-2650b30f-b94b-4d10-b65b-6d00f524af58.png">
 
 
-### Dashboard Link: 
+### Please use the fully interactive Dashboard Link Below: 
 https://public.tableau.com/app/profile/jack.guo4626/viz/AGTest_16409597631390/Dashboard1?publish=yes
 
