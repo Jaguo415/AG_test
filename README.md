@@ -2,13 +2,13 @@
 ![trck](https://user-images.githubusercontent.com/83923903/147840488-ea85014a-2948-4e77-a31b-80b451a3340e.jpeg)
 
 # Resource: Link to Dashboard
-https://public.tableau.com/app/profile/jack.guo4626/viz/AGTest_16409597631390/Dashboard1?publish=yes
-Link to Original Dirty Data: https://docs.google.com/spreadsheets/d/1Dh4nBFfJPPOIJrTz4lU-0ZiHGWDLfXfSR_f1zvMhnJI/edit?usp=sharing
-Link to Clean Data: https://docs.google.com/spreadsheets/d/18cKkNBf_Bi2-Gjcmiu8F-3LonrmKtFBPCMxJ9tMqOSg/edit?usp=sharing
+* https://public.tableau.com/app/profile/jack.guo4626/viz/AGTest_16409597631390/Dashboard1?publish=yes
+* Link to Original Dirty Data: https://docs.google.com/spreadsheets/d/1Dh4nBFfJPPOIJrTz4lU-0ZiHGWDLfXfSR_f1zvMhnJI/edit?usp=sharing
+* Link to Clean Data: https://docs.google.com/spreadsheets/d/18cKkNBf_Bi2-Gjcmiu8F-3LonrmKtFBPCMxJ9tMqOSg/edit?usp=sharing
 
 
 
-## Scenario
+## Our Scenario
 Chelsea B, is the CEO and co founder of **Air Freight Cargo Company** a global air freight forwarding logistics company based out of South san francisco with over 150 additional warehouses located around the world. "AFCC" large regional hubs handles trucks from logistical centers and their service is critical to getting product sorted and shipped. Chelsea has just contracted an external data analyst, Jack G to perform a in depth analysis. Chelsea's CRM has done a great job, at capturing and stored a ton of data. In the Data, we have information such as transaction id, the customer phone number, the spotID (gate number) they offloaded Cargo at, The date/time the customer arrived at the slot, and finally the amout of money they paid. However, like most datasets there exist dirty or even duplicated data which needs to be removed. This way we can ensure we made a through analysis. 
 
 Chelsea goal is creating 3 metrics bring back to her Q4 meeting with her fellow stakeholders, in order drive the business forward by leveraging our historical data 
