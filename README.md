@@ -1,7 +1,8 @@
 # Overview 
 ![trck](https://user-images.githubusercontent.com/83923903/147840488-ea85014a-2948-4e77-a31b-80b451a3340e.jpeg)
 
-
+# Resource: Link to Dashboard
+https://public.tableau.com/app/profile/jack.guo4626/viz/AGTest_16409597631390/Dashboard1?publish=yes
 
 
 **Scenario**: Chelsea B, CEO and co founder of **Air Freight Cargo Company** a global air freight forwarding logistics company based out of South san francisco with over 150 additional warehouses located around the world. "AFCC" large regional hubs handles trucks from logistical centers and their service is critical to getting product sorted and shipped. Chelsea has just contracted an external data analyst, Jack to perform some analysis. Chelsea's crm has done a great job, and stored a ton of helpful goods to customers. In the Data, we have information such as transaction id, the customer phone number, the spotID (gate number) they offloaded Cargo at, The date/time the customer arrived at the slot, and finally the amout of money they paid. However, like most datasets there exist dirty or even duplicated data which needs to be removed. This way we can ensure we made a through analysis. 
@@ -44,6 +45,11 @@ Link to dataset: https://docs.google.com/spreadsheets/d/18cKkNBf_Bi2-Gjcmiu8F-3L
 
 
 # Part 2: KPI & Dashboard
+
+
+# Please use the fully interactive Dashboard Link Below: 
+https://public.tableau.com/app/profile/jack.guo4626/viz/AGTest_16409597631390/Dashboard1?publish=yes
+
 #### Questions to Ask: 
 **Q** Chelsea: Where are all of these customers located around the world? Can we seperate them by wins and losses? **A** Jack: Lets create a GEO Map.
 Blue = Wins
@@ -79,10 +85,6 @@ Profitable vs Unprofitable
 **
 
 <img width="1136" alt="Screen Shot 2021-12-31 at 2 25 46 PM" src="https://user-images.githubusercontent.com/83923903/147840252-2650b30f-b94b-4d10-b65b-6d00f524af58.png">
-
-
-### Please use the fully interactive Dashboard Link Below: 
-https://public.tableau.com/app/profile/jack.guo4626/viz/AGTest_16409597631390/Dashboard1?publish=yes
 
 
 # Additional Comments & Road Blocks
