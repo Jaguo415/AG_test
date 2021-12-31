@@ -80,3 +80,15 @@ Profitable vs Unprofitable
 ### Please use the fully interactive Dashboard Link Below: 
 https://public.tableau.com/app/profile/jack.guo4626/viz/AGTest_16409597631390/Dashboard1?publish=yes
 
+
+# Additional Comments & Road Blocks
+
+* PostgreSQL not compatable with Tableau Public. Limited to only using google sheets....
+<img width="691" alt="Screen Shot 2021-12-31 at 11 47 55 AM" src="https://user-images.githubusercontent.com/83923903/147840405-6d654084-b72a-427c-b843-2687a65f5bcd.png">
+
+
+* Unwilling to pay for a monthly license,($52) as my free two week trail was used during Berkeley Bootcamp
+
+* Wasted time Creating a postgreSQL server, creating tables in hopes to connect it with amazon S3 and connecting that to Tableau. But If i had a full version of Tableau Desktop, this is how I prefer to do it. Google sheets personally feels like a band aid.
+<img width="1418" alt="Screen Shot 2021-12-31 at 2 36 14 PM" src="https://user-images.githubusercontent.com/83923903/147840415-acd9e7f7-1000-4b6f-a776-3bfd9a0250f4.png">
+
