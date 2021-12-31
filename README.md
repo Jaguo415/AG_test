@@ -54,10 +54,12 @@ Orange = Losses
 
 Anytime a customer spends above $50 at a spot, we are in the Black. Anytime a customer pays below $50 for a spot we unfortunately are in the red. With the Average transaction at $51.29, we have a sweet spot of 1.29 (2.58%) margin to profit of each transation. Great! 
 
-*** KPI: Customer acquisition cost  ($50)
+ ## KPI: Customer acquisition cost Formula
+Profitable vs Unprofitable
 <img width="488" alt="Screen Shot 2021-12-31 at 11 47 09 AM" src="https://user-images.githubusercontent.com/83923903/147839853-9734d053-879d-444d-9db5-6f83ba23b73e.png">
 
-* KPI:              ( $ Profitable - # of profitable transactions * 50) = True Revenue
+## KPI:
+* Math:              ( $ Profitable - # of profitable transactions * 50) = True Revenue
 *                   ($ unprofitable - # of Unprofitable transactions * 50) = missed Revenue 
 *                   True Revenue + missed Revenue = Gross Revenue
 
@@ -67,10 +69,9 @@ Anytime a customer spends above $50 at a spot, we are in the Black. Anytime a cu
 
 <img width="1147" alt="Screen Shot 2021-12-31 at 2 24 33 PM" src="https://user-images.githubusercontent.com/83923903/147840239-c533f132-2a6c-4ea0-bc67-40c0a0e6639b.png">
 
-*  Conclusion: We have made a profit of $579 As well as acquired 463 customers. This is great news for our shareholders! 
+ ### Conclusion: We have made a profit of $579 As well as acquired 463 customers. This is great news for our shareholders! 
 
-
-* KPI: Surge Rate & Upselling opportunitys: We notice upticks at specific times of the day. We should impliment at 0.10 cent increase to add to our revenue. As our margins are 1.29, an addiitonal 0.10 cents is 7% increase in revenue identified from our historical data. 
+## KPI: Surge Rate & Upselling opportunitys: We notice upticks at specific times of the day. We should impliment at 0.10 cent increase to add to our revenue. As our margins are 1.29, an addiitonal 0.10 cents is 7% increase in revenue identified from our historical data. 
 **
 
 <img width="1136" alt="Screen Shot 2021-12-31 at 2 25 46 PM" src="https://user-images.githubusercontent.com/83923903/147840252-2650b30f-b94b-4d10-b65b-6d00f524af58.png">
