@@ -39,7 +39,7 @@ Q:How much are we willing to pay, to acquire the customer? A: $50 is our Custome
 
 * KPI: Customer acquisition cost ($50)
 * KPI: Net Revenue (Profitable / # of profitable transactions - unprofitable / # of Unprofitable transactions) 
-* KPI: Surge Rate & Upsell
+* KPI: Surge Rate & Upselling opportunitys
 
 
 
