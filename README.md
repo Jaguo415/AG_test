@@ -3,13 +3,15 @@
 
 
 
-**Scenario**: Chelsea B, CEO and co founder of **Air Freight Cargo Company** a freight forwarding warehouse based out of South san francisco with over 50 additional warehouses located around the world. "AFCC" handles large cargo trucks from logistical centers and their service is critical to getting product sorted and shipped. Chelsea has just contracted an external data analyst, Jack to perform some analysis. Chelsea crm has done a great job, its stored a ton of helpful data. In the Data, we have information such as transaction id, the customer phone number, the spotID (gate number) they offloaded Cargo at, The date/time the customer arrived at the slot, and finally the amout of money they paid. However, like most CRM theres dirty or duplicated data which needs to be removed.
+**Scenario**: Chelsea B, CEO and co founder of **Air Freight Cargo Company** a global air freight forwarding logistics company based out of South san francisco with over 50 additional warehouses located around the world. "AFCC" handles large cargo trucks from logistical centers and their service is critical to getting product sorted and shipped. Chelsea has just contracted an external data analyst, Jack to perform some analysis. Chelsea's crm has done a great job, and stored a ton of helpful customer data. In the Data, we have information such as transaction id, the customer phone number, the spotID (gate number) they offloaded Cargo at, The date/time the customer arrived at the slot, and finally the amout of money they paid. However, like most datasets there exist dirty or even duplicated data which needs to be removed. This way we can ensure we made a through analysis. 
 
-Chelsea goal is creating 3 metrics bring back to her Q4 meeting with her shareholders, in order push the business forward by using our historical data Chelsea has tasked Jack to help better drive business decisions. Jack has decided to break the process down into two parts.
+Chelsea goal is creating 3 metrics bring back to her Q4 meeting with her fellow stakeholders, in order drive the business forward by leveraging our historical data 
+
+Chelsea has tasked Jack to help clean, explore, and disover new business implimentations. Jack has decided to break the Data analysis process down into two parts.
 
 
 # Part 1: Data Clean up. Google Sheets, Pandas
-# Part 2: Tableau Dashboard and KPI
+# Part 2: KPI & Dashboard
 
 
 ## Part 1
@@ -31,11 +33,10 @@ Link to Clean Data: https://docs.google.com/spreadsheets/d/18cKkNBf_Bi2-Gjcmiu8F
 <img width="847" alt="Screen Shot 2021-12-29 at 11 35 51 PM" src="https://user-images.githubusercontent.com/83923903/147731926-2c68da86-aca6-4a45-8582-05b3d0049c2e.png">
 
 
-# Part 2: Tableau Dashboard and KPI
-
+# Part 2: KPI & Dashboard
 #### Questions to Ask: 
 
-Q:How much are we willing to pay, to acquire the customer? A: $50 is our Customer acquisition Cost
+Q:How much are we willing to pay, to acquire the customer? A: $50 is our Customer acquisition Cost. Anytime a customer spends above $50 at a spot, we are in the Black. Anytime below $50 the red.
 
 *** KPI: Customer acquisition cost ($50)
 * KPI: Net Revenue (Profitable / # of profitable transactions - unprofitable / # of Unprofitable transactions) 
