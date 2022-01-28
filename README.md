@@ -71,7 +71,7 @@ Orange = Losses
 
 **Q** Jack :How much are we willing to pay, to acquire the customer? Chelsea: **A:** $50 is our Customer acquisition Cost.
 
-Anytime a customer spends above $50 at a spot, we are in the Black. Anytime a customer pays below $50 for a spot we unfortunately are in the red. With the Average transaction at $51.29, we have a sweet spot of 1.29 (2.58%) margin to profit of each transation. Great! 
+# Anytime a customer spends above $50 at a spot, we are in the Black. Anytime a customer pays below $50 for a spot we unfortunately are in the red. With the Average transaction at $51.29, we have a sweet spot of 1.29 (2.58%) margin to profit of each transation. Great! 
 
  ## KPI: Customer acquisition cost Formula
 Profitable vs Unprofitable
