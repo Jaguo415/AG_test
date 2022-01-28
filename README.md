@@ -98,8 +98,6 @@ Profitable vs Unprofitable
 <img width="691" alt="Screen Shot 2021-12-31 at 11 47 55 AM" src="https://user-images.githubusercontent.com/83923903/147840405-6d654084-b72a-427c-b843-2687a65f5bcd.png">
 
 
-* Roadblock: Unwilling to pay for a monthly license,($52) as my free two week trail was used up during Berkeley Bootcamp
-
 * Comment: Spent time Creating a postgreSQL server, but was unable to use it. I creating tables in hopes to connect postgresql it with amazon S3 and connecting that to Tableau. But If i had a full version of Tableau Desktop, this is how I prefer to do it. Google sheets works in this case because we only less than 500 rows of data. But using G sheets is not scalable and in my opinion serves as a band aid. We should get our dataset into SQL asap.
 
 <img width="1418" alt="Screen Shot 2021-12-31 at 2 36 14 PM" src="https://user-images.githubusercontent.com/83923903/147840415-acd9e7f7-1000-4b6f-a776-3bfd9a0250f4.png">
