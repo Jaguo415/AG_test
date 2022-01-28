@@ -30,7 +30,7 @@ Chelsea has tasked Jack to help clean, explore, and disover new business implime
 <img width="753" alt="Screen Shot 2021-12-31 at 3 09 36 PM" src="https://user-images.githubusercontent.com/83923903/147840858-184fc8d6-e302-4579-9e98-e2ed218f646c.png">
 
 
-#### First we upload our CSV into Juypter notebook and reformat into a dataframe with pandas. Next we split date & time from Created_at_UTC Column.
+#### First we upload our CSV into Juypter notebook a Python library and reformat the csv file into a dataframe with pandas. Next we split date & time from Created_at_UTC Column. Giving us two unique columns "Date", and "Time".
 
 <img width="895" alt="Screen Shot 2021-12-30 at 12 58 27 PM" src="https://user-images.githubusercontent.com/83923903/147787596-48b68b09-7aa7-4ad7-8831-4962c8f641a7.png">
 
