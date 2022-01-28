@@ -60,7 +60,14 @@ Orange = Losses
 * Please note, you can only select 1 Region at a time. We have european regions in the dataset, and You can switch your region on the bottom right of the GEO Map. 
 <img width="1134" alt="Screen Shot 2021-12-31 at 2 29 17 PM" src="https://user-images.githubusercontent.com/83923903/147840312-4973df16-80d9-46b8-9e5a-9832b9a263ed.png">
 
+**Q** Chelsea: How is each slot performing per quarter? Can we see the profitable vs unprofitable accounts?
 
+<img width="1146" alt="Screen Shot 2022-01-28 at 8 40 24 AM" src="https://user-images.githubusercontent.com/83923903/151586587-b7370d73-50c5-47d9-9648-f95461180859.png">
+
+**Q** Chelsea: What about each invidual slots performance? Can we break this down too for analysis?
+
+
+<img width="1142" alt="Screen Shot 2022-01-28 at 8 40 36 AM" src="https://user-images.githubusercontent.com/83923903/151586807-dd0e8087-40c3-4708-9e0a-18d6692e345c.png">
 
 **Q** Jack :How much are we willing to pay, to acquire the customer? Chelsea: **A:** $50 is our Customer acquisition Cost.
 
