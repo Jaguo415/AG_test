@@ -98,7 +98,7 @@ Profitable vs Unprofitable
 
 # Additional Comments & Road Blocks
 
-* Comment: Some additional data like "Duration of Stay" so we could figure out when the spot was open again would be useful.
+* Comment: Some additional data like "Duration of Stay" so we could figure out when the spot has "free time" knowing when spots are open again would be useful. So we can figure out white areas, and fill it with new customers. 
 * Comment: There is only 1 phone number per row of data. If 1 phone number = 1 customer then, the dataset could be more variation as repeating customers are not being accounted for. 
 
 * Roadblock: PostgreSQL not compatable with Tableau Public. Due Limited to only using google sheets.... Full Version of Tableau allows for SQL server connections.
